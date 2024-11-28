@@ -1,0 +1,41 @@
+﻿@model List<toDoList.Models.Task>
+<h1> welcome @ViewBag.User.Name  </h1>
+
+ <a href="/User/Create" class="btn btn-primary"> Create New  </a>
+<table class="table">
+    <thead>      
+        <tr>
+
+            @* <th>hello @Model.Name</th>*@
+
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">DeadLine</th>
+            <th scope="col">Action</th>
+
+        </tr>
+    </thead>
+
+
+    <tbody>
+   @foreach(var item in Model){
+         
+            <tr>
+                
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Time</td>
+                <td>
+
+                    <a href="/User/Edit?taskId=@item.Id" type="button" class="btn btn-info">Edit</a>
+                    <a href="/User/Delete?taskId=@item.Id" type="button" class="btn btn-primary">Delete</a>
+
+                </td>
+
+            </tr>
+
+       
+   }
+        </tbody>
+    
+</table>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\509\\day.12\\Task\\toDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E93EBEC8-A006-4219-A247-F6E1224E242F}|toDoList.csproj|d:\\509\\day.12\\task\\todolist\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93EBEC8-A006-4219-A247-F6E1224E242F}|toDoList.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93EBEC8-A006-4219-A247-F6E1224E242F}|toDoList.csproj|d:\\509\\day.12\\task\\todolist\\views\\home\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E93EBEC8-A006-4219-A247-F6E1224E242F}|toDoList.csproj|solutionrelative:views\\home\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "D:\\509\\day.12\\Task\\toDoList\\Views\\Home\\Show.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Show.cshtml",
+              "ToolTip": "D:\\509\\day.12\\Task\\toDoList\\Views\\Home\\Show.cshtml",
+              "RelativeToolTip": "Views\\Home\\Show.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T21:12:16.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\509\\day.12\\Task\\toDoList\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\509\\day.12\\Task\\toDoList\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:12:28.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
